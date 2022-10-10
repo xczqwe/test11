@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "693383e877044e604b36abbddda104a5",
 # 模板消息id
-"template_id": "Xb1DEmgFEFxXCZ_RM-EuXYhuogy-4M7jpkLGvxfS11s",
+"template_id": "ET0dS7caaRxrTueVs1K0jh8OXJ2o1n2FGWe4O-pr14g",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oG9Am6pReyDVnW1adJhhEEMez6Ps","oG9Am6kkD7cBLqxe3yvxWnu2AVCk","oG9Am6okud1DKjd737Q3BW5kK8B0","oG9Am6mHBrg8CP8qbvfkJMhcDuYI","oG9Am6tQ1-xEMjPBaM9JJVIm515k"],
+"user": ["oG9Am6pReyDVnW1adJhhEEMez6Ps","oG9Am6kkD7cBLqxe3yvxWnu2AVCk","oG9Am6okud1DKjd737Q3BW5kK8B0","oG9Am6tQ1-xEMjPBaM9JJVIm515k"],
  
 # 信息配置
 # 和风天气apikey
